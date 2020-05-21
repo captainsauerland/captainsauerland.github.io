@@ -1,5 +1,5 @@
 ---
-title: Connecting Frames
+title: >Connecting Frames<
 layout:  	default
 ---
 
