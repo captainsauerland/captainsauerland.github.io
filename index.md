@@ -1,5 +1,5 @@
 ---
-layout:  	_config.yml
+layout:  	default
 ---
 
 ## Wer sind wir?
