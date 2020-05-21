@@ -1,6 +1,6 @@
 ---
-layout:  	default
 title: Connecting Frames
+layout:  	default
 ---
 
 ## Wer sind wir?
