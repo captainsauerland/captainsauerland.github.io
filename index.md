@@ -1,5 +1,5 @@
 ---
-layout: cayman
+layout:  	_config.yml
 ---
 
 ## Wer sind wir?
