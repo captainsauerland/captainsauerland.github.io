@@ -1,7 +1,6 @@
 ---
 layout:  	default
 ---
-## Connecting Frames 
 
 ## Wer sind wir?
 
