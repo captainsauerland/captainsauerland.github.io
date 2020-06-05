@@ -1,6 +1,7 @@
 ---
 layout:        default
 title: Connecting Frames
+description: Wir connecten Frames
 ---
 
 ## Wer sind wir?
