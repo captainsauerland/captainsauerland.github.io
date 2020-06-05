@@ -1,4 +1,6 @@
-title: GitHub Pages Beispiel 
+title: Dies ist ein Titel
+description: cool oder?
+
 sass:
         sass_dir: _sass
         style: compressed
