@@ -1,5 +1,5 @@
 ---
-layout:  	jekyll-theme-cayman
+layout: jekyll-theme-cayman
 title: Connecting Frames
 ---
 
