@@ -6,4 +6,4 @@ description: Impressum von Captain Sauerland
 
 ## Coming soon
 
-Kommt bald
+Für geschäftliche Anliegen hier meine eMail-Adresse: connectingframes@magenta.de
