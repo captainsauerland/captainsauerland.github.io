@@ -10,6 +10,6 @@ Unser Unternehmen hat sich auf die Produktion von Videokunstwerken spezialisiert
 
 ## Wer ist Captain Sauerland?
 
-Captain Sauerland ist die YouTube-Präsenz von Connecting Frames, welche zum heutigen Stand mehr als 3000 Abonnenten regelmäßig mit Tutorial-Videos versorgt. 
+Captain Sauerland ist die YouTube-Präsenz von Connecting Frames, welche zum heutigen Stand mehr als 9000 Abonnenten regelmäßig mit Tutorial-Videos versorgt. 
 
 lol
