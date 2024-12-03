@@ -1,8 +1,10 @@
-## Privacy Policy
+## Privacy Policy for Emoter
+
+Last updated: December 2024
 
 ### Introduction
 
-We take the protection of your personal data very seriously. This privacy policy informs you that our app does not collect, store, or process any personal data from you.
+"Emoter: 7TV Emotes to Stickers" is an app by "Triple Twenty" aka. "Captain Sauerland". We take the protection of your personal data very seriously. This privacy policy informs you that our app does not collect, store, or process any personal data from you.
 
 ### Data Collection and Processing
 
