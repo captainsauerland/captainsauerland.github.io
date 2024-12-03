@@ -1,6 +1,9 @@
-## Privacy Policy for Emoter
+---
+layout:        default
+title: Privacy Policy for Emoter
+description: Last updated: December 2024
+---
 
-Last updated: December 2024
 
 ### Introduction
 
